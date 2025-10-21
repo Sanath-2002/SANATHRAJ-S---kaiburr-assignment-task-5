@@ -1,0 +1,26 @@
+CONSUMER COMPLAINT CLASSIFICATION - MODEL PERFORMANCE REPORT
+================================================================================
+
+Best Model: XGBoost
+Test F1-Score: 0.8001
+Test Accuracy: 0.8122
+
+Classification Report:
+                  precision    recall  f1-score   support
+
+Credit Reporting       0.80      0.95      0.87    167773
+ Debt Collection       0.83      0.57      0.67     74326
+   Consumer Loan       1.00      0.00      0.00      1892
+        Mortgage       0.92      0.70      0.80     26967
+
+        accuracy                           0.81    270958
+       macro avg       0.89      0.55      0.58    270958
+    weighted avg       0.82      0.81      0.80    270958
+
+
+Model Comparison:
+                  Model  Accuracy  Precision   Recall  F1-Score
+                XGBoost  0.909289   0.907966 0.909289  0.907810
+             Linear SVM  0.898283   0.908299 0.898283  0.902281
+    Logistic Regression  0.874401   0.903653 0.874401  0.886049
+Multinomial Naive Bayes  0.864138   0.866832 0.864138  0.864004
