@@ -168,9 +168,9 @@ Hyperparameter tuning
 Production deployment preparation
 
 👤 Author
-[Your Name]
-[Your Email]
-[LinkedIn Profile]
+SANATHRAJ S
+sanathrajs2002@gmail.com
+
 📄 License
 This project is created for educational and assignment purposes.
 🙏 Acknowledgments
@@ -178,6 +178,7 @@ This project is created for educational and assignment purposes.
 Dataset: U.S. Consumer Financial Protection Bureau
 Company: Kaiburr
 Purpose: Placement Assignment
+
 
 
 Note: Ensure you have downloaded the dataset before running the script. The dataset is publicly available but not included in this repository due to size constraints.
